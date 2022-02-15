@@ -1,0 +1,18 @@
+h1{
+    color: orange;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    color: black;
+    background-color: orange;
+    font-weight: bold;
+}
+
+div {
+    color: black;
+    background-color: orange;
+    font-weight: bold;
+}

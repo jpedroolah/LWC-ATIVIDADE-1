@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jpedroolah.atividade1",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve lHTmLa6joIk78NVJyeq4 --open"
+  }
+}
